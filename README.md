@@ -1,12 +1,12 @@
 ### 😃 Olá!
 
-Eu sou Dani Bueno
+👩 Eu sou Dani Bueno
 
-Desenvolvedora Web Full Stack 💻
+💻 Desenvolvedora Web Full Stack 
 
-Formada em Desenvolvimento Web | Análise de Desenvolvimento de Softawe.
+🏆 Formada em Desenvolvimento Web | Análise de Desenvolvimento de Softawe.
 
-Meu foco está em Fullstack.
+👉 Meu foco está em Fullstack.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannibueno&show_icons=true&theme=tokyonight"/>
