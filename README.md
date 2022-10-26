@@ -4,7 +4,7 @@
 
 💻 Desenvolvedora Web Full Stack 
 
-🏆 Formada em Desenvolvimento Web | Análise de Desenvolvimento de Softawe.
+🏆 Formada em Desenvolvimento Web | Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 👉 Meu foco está em Fullstack.
 
